@@ -12,3 +12,5 @@ Each version of the tool is located in its respective folder within this reposit
 - `bash-encryption-tool`: Contains the Bash implementation of the tool.
 
 Please refer to the README file in each folder for specific instructions on how to use the tool.
+
+Zahid Hasan
