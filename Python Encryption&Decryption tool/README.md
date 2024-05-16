@@ -9,12 +9,18 @@ This project provides a simple graphical user interface (GUI) for encrypting and
 - Background image support for a personalized interface.
 - Audio feedback using a female voice for user guidance.
 
-## Instructions for Use
+## Usage
 
-1. Run the script `Drive encrypted & Decrypted.py`.
-2. Select files or directories to encrypt or decrypt using the provided buttons.
-3. Enter the encryption or decryption password when prompted.
-4. Monitor the status label for operation completion messages.
+1. Run the script in a terminal:
+```bash
+python script_name.py
+```
+
+2. Use the GUI to:
+- Enter a password for encryption/decryption.
+- Select files or directories for encryption/decryption.
+- Receive visual and audio feedback on the process.
+
 
 ## Dependencies
 
@@ -22,7 +28,10 @@ This project provides a simple graphical user interface (GUI) for encrypting and
 - Tkinter
 - PyAesCrypt
 - pyttsx3
+Please note that this script uses AES encryption provided by PyAesCrypt. Make sure you have all dependencies installed before running the script.
 
 ## Contributing
 
 Contributions to this project are welcome! Feel free to fork this repository, make changes, and submit a pull request.
+
+**Created By**: Zahid Hasan
