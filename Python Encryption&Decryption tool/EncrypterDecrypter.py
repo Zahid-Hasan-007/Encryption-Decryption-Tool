@@ -53,7 +53,7 @@ def encrypt_decrypt_gui():
     background_label = tk.Label(root, image=background_image)
     background_label.place(relwidth=1, relheight=1)
 
-    title_label = tk.Label(root, text="Created By Tabassum", bg="black", fg="white", font=("Helvetica", 12, "bold"))
+    title_label = tk.Label(root, text="Created By Zahid Hasan", bg="black", fg="white", font=("Helvetica", 12, "bold"))
     title_label.pack(side="top", pady=5)
 
     speak("Welcome to Encryptor & Decryptor ")
