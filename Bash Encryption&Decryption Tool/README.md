@@ -5,7 +5,9 @@ This is a basic shell script for encrypting and decrypting files within the dire
 ## Usage
 
 1. Run the script:
-
+```bash
+./Basic_Encrypter_Decrypter.sh
+```
 
 2. Choose between encryption and decryption by entering the respective number:
 - `1` for Encrypt
